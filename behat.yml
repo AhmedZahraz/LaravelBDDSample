@@ -1,5 +1,0 @@
-default:
-    suites:
-        functional:
-            paths: [ features/functional ]
-            contexts: [ LaravelFeatureContext ]
